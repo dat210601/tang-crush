@@ -4,7 +4,7 @@ const CONFIG = {
     Mình anh với nỗi nhớ ai
     Muốn nói cùng em
     Về chuyện tình yêu anh cất trong mơ`,
-    btnIntro: 'hihi',
+    btnIntro: 'Ấn vô đee',
     title: 'Until you :3',
     desc: 'Thúy là số 2 không ai số 1 ',
     btnYes: 'Iuuuuu <33',
@@ -14,7 +14,7 @@ const CONFIG = {
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     reply: 'Tại m ngu quá :vv',
     mess: 'Love U🥰',
-    messDesc: 'Vô Lýyyyy.',
+    messDesc: 'Tối vui vẻee.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://fb.com/bd.adt'
 }
